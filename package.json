@@ -3,8 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "antd": "^3.16.6",
+    "emotion": "^10.0.9",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-emotion": "^9.2.12",
+    "react-log": "^4.0.0",
     "react-scripts": "3.0.0"
   },
   "scripts": {
@@ -27,5 +31,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "prettier": "1.17.0"
   }
 }
