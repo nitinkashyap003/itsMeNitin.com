@@ -3,6 +3,6 @@ export const main = css`
 width: 77%;
 min-height: 800px;
 float: right;
-padding-top:24px;
+padding: 24px 0px 0px 32px;
 `;
 

@@ -13,3 +13,8 @@ width: 188px;
 height: 188px;
 border-radius: 94px;
 `;
+
+export const smallLeftCircle = css`
+    display: flex;
+    flex-direction: column;
+`;
