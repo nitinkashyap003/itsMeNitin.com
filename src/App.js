@@ -2,8 +2,8 @@ import React from 'react';
 import './App.css';
 import {hot, setConfig} from 'react-hot-loader';
 // import MainHeader from './MainHeader/MainHeader.js';
-import LeftSection from './components/LeftSection/LeftSection.js';
-import RightSection from './components/RightSection/RightSection.js';
+import LeftSection from './components/BasicStructure/LeftSection/LeftSection.js';
+import RightSection from './components/BasicStructure/RightSection/RightSection.js';
 setConfig({logLevel : 'debug'});
 function App() {
   return (
