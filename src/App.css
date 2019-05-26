@@ -4,6 +4,7 @@
   max-width: 1280px;
   background-color:white;
   margin:0px 108px 0px 108px;
+  display: flex;
 }
 
 .App-logo {
