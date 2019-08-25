@@ -5,7 +5,7 @@ class RightSection extends Component {
         return(
             <div className={style.main}>
                 <div></div>
-                {/* <div className={style.nameHeader}>NITIN KASHYAP</div> */}
+                <div className={style.nameHeader}>NITIN KASHYAP</div>
             </div>
         );
     }

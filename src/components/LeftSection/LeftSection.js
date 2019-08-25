@@ -8,10 +8,6 @@ class LeftSection extends Component {
             <div className={style.main}>
                 <TouchableOpacity
                     style={{
-                        borderWidth:1,
-                        borderColor:'rgba(0,0,0,0.2)',
-                        alignItems:'center',
-                        justifyContent:'center',
                         width:'188px',
                         height:'188px',
                         backgroundColor:'#fff',
@@ -19,7 +15,7 @@ class LeftSection extends Component {
                         margin:'32px'
                         }}
                 >
-                     <Icon name="chevron-right"  size={30} color="#01a699" />
+                     {/* <Icon name="chevron-right"  size={30} color="#01a699" /> */}
                 </TouchableOpacity>
                {/* <div style={{margin:'32px 12px 0px 0px'}}>
                 <TouchableOpacity
