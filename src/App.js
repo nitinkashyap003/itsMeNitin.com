@@ -10,6 +10,10 @@ function App() {
     <div className="App">
       {/* <MainHeader /> */}
       <LeftSection />
+    //adding backspace reps
+    <html>
+    </html>
+    
       <RightSection />
     </div>  
   );
